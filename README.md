@@ -1,4 +1,4 @@
-### I' m currently working on lua projects.
+### I'm currently working on lua projects.
 ### I'm currently learning lua.
 
 <!--
