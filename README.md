@@ -1,4 +1,5 @@
-### Hi there 👋
+### I' m currently working on lua projects.
+### I'm currently learning lua.
 
 <!--
 **DCons0001/DCons0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
